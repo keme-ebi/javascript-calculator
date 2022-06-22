@@ -21,5 +21,5 @@ if (isNaN(num1) || isNaN(num2)){
     }else if(operator == '/'){
         result = num1 / num2;
     }
-    alert(result);
+    alert('Your result is: '+result);
 }
